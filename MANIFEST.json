@@ -1,0 +1,32 @@
+[
+  {
+    "path": "LICENSE",
+    "sha256": "11BD62AD8C2AB689BAAEBBDA3EA2BA7D69343BA959BC76CC02C281DEA37EAB72",
+    "bytes": 1062
+  },
+  {
+    "path": "README.md",
+    "sha256": "FC5EF08FD32C4D42FBF5226A934E19145531DD46FBE5E093A0A083529BCCD803",
+    "bytes": 2352
+  },
+  {
+    "path": "RELEASE_NOTES.md",
+    "sha256": "65C9004DBB8739AE8879DD9F2690A309686E23A42AFA95464C806198B7566A39",
+    "bytes": 378
+  },
+  {
+    "path": "examples/demo.py",
+    "sha256": "2E543A0FA92C1B307FC892111DE87B911D25D35109A3B70E251FA410D3CE9712",
+    "bytes": 1166
+  },
+  {
+    "path": "scripts/local_foreground_process.py",
+    "sha256": "51DDB8A621484B97444EBC5D5809515048904859EA010F442B82CAB015E6E974",
+    "bytes": 30186
+  },
+  {
+    "path": "tests/test_local_foreground_process.py",
+    "sha256": "E4E1E582540D4396C1D6D7ACB4CB53A9423DB5C4D290C078CAA532A6D58EFBBF",
+    "bytes": 16398
+  }
+]
